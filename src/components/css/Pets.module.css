@@ -1,0 +1,46 @@
+.titlePets {
+  font-family: 'Raleway', sans-serif;
+  color: #444444;
+  padding-top: 45px;
+  padding-left: 165px;
+  margin-bottom: 30px;
+}
+
+.mainPets {
+  display: flex;
+  justify-content: center;
+}
+
+.listPets {
+  width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  margin-bottom: 40px;
+}
+
+.listItemPets {
+  background-color: #212121;
+  padding: 20px;
+  margin-right: 50px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14),
+    0 2px 1px -1px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+.petsImage {
+  width: 250px;
+  height: 170px;
+  margin-bottom: 15px;
+  box-shadow: 0px 0px 27px -5px rgba(0, 0, 0, 0.75);
+}
+
+.namePet {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  color: #e3ecf5;
+  text-align: center;
+}

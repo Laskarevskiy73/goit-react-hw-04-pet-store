@@ -1,0 +1,22 @@
+.mainAbout {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-right: 50px;
+  padding-left: 50px;
+  font-family: 'Raleway', sans-serif;
+  color: #444444;
+}
+
+.titleAbout {
+  padding-top: 60px;
+  margin-bottom: 30px;
+}
+
+.textAbout {
+  margin-bottom: 20px;
+}
+
+.textAbout:last-child {
+  margin-bottom: 60px;
+}
