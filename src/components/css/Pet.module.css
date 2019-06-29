@@ -1,0 +1,49 @@
+.petPageMain {
+  width: 800px;
+  padding-top: 60px;
+  margin: 0 auto;
+}
+
+.cardPet {
+  display: flex;
+  justify-content: left;
+  margin-bottom: 30px;
+}
+
+.namePet {
+  font-family: 'Raleway', sans-serif;
+  text-shadow: -1px -1px 1px rgba(255, 255, 255, 0.1),
+    1px 1px 1px rgba(0, 0, 0, 0.5);
+  font-weight: 700;
+  color: #444444;
+  margin-bottom: 30px;
+}
+.imagePet {
+  width: 300px;
+  box-shadow: 0px 0px 27px -5px rgba(0, 0, 0, 0.75);
+  border: 2px solid #212121;
+  margin-right: 40px;
+}
+
+.about {
+  padding-top: 10px;
+}
+
+.aboutPet {
+  font-family: 'Raleway', sans-serif;
+  text-shadow: -1px -1px 1px rgba(255, 255, 255, 0.1),
+    1px 1px 1px rgba(0, 0, 0, 0.5);
+  font-weight: 700;
+  font-size: 15px;
+  color: #444444;
+  margin-bottom: 30px;
+}
+
+.dataPet {
+  font-weight: 400;
+}
+
+.descriptionPet {
+  font-family: 'Raleway', sans-serif;
+  margin-bottom: 50px;
+}
