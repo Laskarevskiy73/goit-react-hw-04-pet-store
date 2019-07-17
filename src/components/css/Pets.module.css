@@ -31,6 +31,11 @@
   text-decoration: none;
 }
 
+.listItemPets:hover .namePet {
+  color: #fd6348;
+  transition: all 300ms linear;
+}
+
 .petsImage {
   width: 250px;
   height: 170px;
