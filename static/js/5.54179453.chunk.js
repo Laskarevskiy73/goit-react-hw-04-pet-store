@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{70:function(e,n,o){e.exports={mainHome:"Home_mainHome__2M3IR",titleHome:"Home_titleHome__3Mj70"}},75:function(e,n,o){"use strict";o.r(n);var t=o(0),a=o.n(t),m=o(70),i=o.n(m);n.default=function(){return a.a.createElement("div",{className:i.a.mainHome},a.a.createElement("h2",{className:i.a.titleHome},"Welcome to Paws online store"))}}}]);
+//# sourceMappingURL=5.54179453.chunk.js.map
